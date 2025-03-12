@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+<head>
+	<title>A Fun Page</title>
+<style>
+body {background-color: burgundy;}
+</head>
+<body>
+
+<h1 text-align:center>Washington Commanders</h1>
+<p>Washington Commanders are the <strong>BEST</strong> NFL team.
+<p><strong>They are 3 times Super Bowl Champions</strong></p>
+<img src = "Redskins.jpg" alt = "Redskins Celebrate">
+
+</body>
+</html>
